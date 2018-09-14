@@ -1,0 +1,13 @@
+Se capturaron 10 alumnos de los cuales:
+6 son mujeres y 4 son hombres
+2 son de primero
+0 son de segundo
+1 son de tercero
+0 son de cuarto
+3 son de quinto
+1 son de sexto
+1 son de septimo
+1 son de octavo
+1 son de noveno
+y el promedio de calificaciones de todos los alumnos es:
+8.730000
