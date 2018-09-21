@@ -1,0 +1,1 @@
+Ejercicio 1: En éste programa se le pide al usuario introducir un valor de la potencia P para x, un intervalo y la precisión de éste intervalo para determinar la integral de la incognita x por medio del métido del trapecio.
